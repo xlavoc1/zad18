@@ -1,0 +1,18 @@
+div{
+    height: 50vh;
+    background-color: bisque;
+    margin: 10px;
+
+}
+h1{ 
+    padding: 10px;
+    color: red;
+}
+p{  
+    font-size: 20px;
+    padding: 10px;
+    color: brown;
+}
+p+p{
+    color:darkblue;
+}
